@@ -1,0 +1,15 @@
+Character: Anatoliy Safonov, Height: 1.78, Weight: 76.0, History: Anatoly works at the factory
+
+Character: Alex Salamonov, Height: 1.98, Weight: 92.0, History: Alex lives in Murmansk with his family
+
+Location: City, Location name: Murmansk, Size: 10567.00, Description: Murmansk is acold city
+
+Location: Lake, Location name: Baikal, Size: 340.00, Description: Baikal is the largest lake
+
+Item: Weapon, Name: Knife, Quantity: 3
+Item: Clothes, Name: Shirt, Quantity: 3
+NPC: Egor, Location: Murmansk, ItemCount: 2
+  Item 1: Knife
+  Item 2: Shirt
+NPC: Ivan, Location: Baikal, ItemCount: 1
+  Item 1: Shirt

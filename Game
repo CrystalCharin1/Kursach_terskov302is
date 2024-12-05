@@ -1,0 +1,7 @@
+Character: Ivan Gurov, Height: 1.83, Weight: 57.0, History: Chill boy
+
+Location: City, Location name: Saratov, Size: 13500.00, Description: Saratov is nice city
+
+Item: Equipment, Name: Rukzak, Quantity: 1
+NPC: Alex, Location: Saratov, ItemCount: 1
+  Item 1: Rukzak

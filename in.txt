@@ -1,0 +1,97 @@
+Примеры ввода для 1 колчичества в каждом раздел:
+Filename - Game
+First name - Tvan
+last name - Gurov
+height - 1.83
+weight - 57
+Character history - chill boy
+Do you want to enter another character? - n
+
+Location type - City
+Location name - Saratov
+Location size - 13500
+Location description - Saratov is nice city
+Do you want to enter another location? - n
+
+Item type - Equipment
+Item name - Rukzak
+Item quantity - 1
+Do you want to enter another item? - n
+
+NPC name - Alex
+Select a location (0 to 0):
+0: Saratov
+0
+Enter number of items with the NPC - 1
+Select an item (0 to 0):
+0: Rukzak
+0
+Do you want to enter another NPC? - n
+
+
+
+
+Примеры ввода для 2 колчичества в каждом раздел:
+Filename - Game1
+First name - Anatoliy
+last name - Safonov
+height - 1.78
+weight - 76
+Character history - Anatoly works at the factory
+Do you want to enter another character? - y
+
+First name - Alex
+last name - Salamonov
+height - 1.98
+weight - 92
+Character history - Alex lives ib Murmansk with his family
+Do you want to enter another character? - n
+
+Location type - City
+Location name - Murmansk
+Location size - 10567
+Location description - Murmansk is a cold city
+Do you want to enter another location? - y
+
+Location type - Lake
+Location name - Baikal
+Location size - 340
+Location description - Baikal is the largest lake
+Do you want to enter another location? - n
+
+Item type - Weapon
+Item name - Knife
+Item quantity - 3
+Do you want to enter another item? - y
+
+Item type - Clothes
+Item name - Shirt
+Item quantity - 3
+Do you want to enter another item? - n
+
+NPC name - Egor
+Select a location (0 to 1):
+0: Murmansk
+1: Baikal
+0
+Enter number of items with the NPC - 2
+Select an item (0 to 1):
+0: Knife
+1: Shirt
+0
+Select an item (0 to 1):
+0: Knife
+1: Shirt
+1
+Do you want to enter another NPC? - y
+
+NPC name - Alex
+Select a location (0 to 1):
+0: Murmansk
+1: Baikal
+1
+Enter number of items with the NPC - 1
+Select an item (0 to 1):
+0: Knife
+1: Shirt
+Do you want to enter another NPC? - n

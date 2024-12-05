@@ -1,0 +1,9 @@
+Character: Ivan Gurov, Height: 1.83, Weight: 57.0, History: Ivan lives in Kuzmimki
+
+Location: City, Location name: Saratov, Size: 340.00, Description: Not
+
+Item: Clothes, Name: Shirt, Quantity: 3
+NPC: Egor, Location: Saratov, ItemCount: 3
+  Item 1: Shirt
+  Item 2: Shirt
+  Item 3: Shirt
